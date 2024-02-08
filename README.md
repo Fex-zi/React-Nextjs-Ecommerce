@@ -1,36 +1,14 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+git remote set-url --add --push origin https://Ifeanyi-O@dev.azure.com/Ifeanyi-O/WDD%20430/_git/React-Nextjs-Ecommerce.git
+git remote set-url --add --push origin https://github.com/Fex-zi/React-Nextjs-Ecommerce.git
 
-## Getting Started
+................................
+Packages used
 
-First, run the development server:
+https://ui.shadcn.com/themes to install themes
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+npm i stripe use-shopping-cart next-sanity @stripe/stripe-js @sanity/image-url --force
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+SANITY.IO
+npm create sanity@latest -- --template clean --create-project "Nextjs Ecommerce" --dataset production
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+Then from sanity use documentation & developer option to create new project
