@@ -5,6 +5,8 @@ https://dev.azure.com/Ifeanyi-O/WDD%20430/_git/React-Nextjs-Ecommerce.git
 
 https://dev.azure.com/Ifeanyi-O/WDD%20430/_workitems/recentlyupdated/
 
+https://fexzi-nextjs-commerce.sanity.studio/
+
 ................................
 Packages used
 
